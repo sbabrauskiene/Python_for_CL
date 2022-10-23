@@ -108,11 +108,11 @@ Git и GitHub
 
 Начало работы с Git (через командную строку) смотрим здесь:
 - [githowto](https://githowto.com/ru): пошаговое обучение от git
-- [скринкаст](), ссылка из скринкаста для создания вашего личного [токена](https://github.com/settings/tokens/new)
+- [скринкаст](https://youtu.be/piq5dSX7hL0), ссылка из скринкаста для создания вашего личного [токена](https://github.com/settings/tokens/new)
 
 # Самостоятельная работа
 - [интерактивный учебник по Python](https://snakify.org/ru)
 - [тренажер с упражнениями на все темы](https://www.w3resource.com/python-exercises/)
-- [тренажер по Python и математике от Stepik]()
+- [тренажер по Python и математике от Stepik](https://stepik.org/course/3356/promo#toc)
 - [введение в Python](https://app.datacamp.com/learn/courses/intro-to-python-for-data-science), [Data Science in Python: найдите похитителя золотистого ретривера!](https://app.datacamp.com/learn/courses/introduction-to-data-science-in-python) и другие курсы на DataCamp
 - [первые уроки Python-разработчика на Яндекс.Практикум](https://practicum.yandex.ru/profile/backend-developer/)
