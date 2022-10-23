@@ -106,7 +106,9 @@ Git и GitHub
 если нет, [ссылка](https://git-scm.com/download/mac), выбираем вариант **Binary installer**  
 - Linux - команда в терминале для вашего дистрибутива со [страницы](https://git-scm.com/download/linux)  
 
-Начало работы с Git (через командную строку) смотрим в [githowto](https://githowto.com/ru)
+Начало работы с Git (через командную строку) смотрим здесь:
+- [githowto](https://githowto.com/ru): пошаговое обучение от git
+- [скринкаст](), ссылка из скринкаста для создания вашего личного [токена](https://github.com/settings/tokens/new)
 
 # Самостоятельная работа
 - [интерактивный учебник по Python](https://snakify.org/ru)
