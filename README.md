@@ -20,7 +20,7 @@
 <tr>
 <td>2</td>
 <td>29 октября 2022</td>
-<td>Операторы ввода/вывода (print, display, input), списки, циклы</td>
+<td><a href="https://github.com/AnnSenina/Python_for_CL/blob/main/notebooks/Python_2_Intro.ipynb">Операторы ввода/вывода</a> (print, display, input), <a href="https://github.com/AnnSenina/Python_for_CL/blob/main/notebooks/Python_3_if%2C_while.ipynb">списки, циклы</a></td>
 <tr>
 <td>3</td>
 <td>7 ноября 2022</td>
