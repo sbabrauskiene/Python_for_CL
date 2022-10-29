@@ -7,7 +7,7 @@
 
 Сдача после 21.11.2022 возможна с понижением баллов
 
-[Ссылка на блокнот]()
+[Ссылка на блокнот](https://github.com/AnnSenina/Python_for_CL/blob/main/homeworks/Hw1.ipynb)
 
 ### Как отправлять решение
 
