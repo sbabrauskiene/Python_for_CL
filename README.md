@@ -20,11 +20,11 @@
 <tr>
 <td>2</td>
 <td>29 октября 2022</td>
-<td><a href="https://github.com/AnnSenina/Python_for_CL/blob/main/notebooks/Python_2_Intro.ipynb">Операторы ввода/вывода</a> (print, display, input), <a href="https://github.com/AnnSenina/Python_for_CL/blob/main/notebooks/Python_3_if%2C_while.ipynb">списки, циклы</a></td>
+<td><a href="https://github.com/AnnSenina/Python_for_CL/blob/main/notebooks/Python_2_Intro.ipynb">Операторы ввода/вывода</a> (print, display, input), <a href="https://github.com/AnnSenina/Python_for_CL/blob/main/notebooks/Python_3_if%2C_while_%20%D1%81%20%D0%B4%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8.ipynb">списки, циклы</a></td>
 <tr>
 <td>3</td>
 <td>7 ноября 2022</td>
-<td><a href="https://github.com/AnnSenina/Python_for_CL/blob/main/notebooks/Python_4_list%2C%20tuple%2C%20set%2C%20dict.ipynb">Множества, кортежи, словари</a></td>
+<td><a href="https://github.com/AnnSenina/Python_for_CL/blob/main/notebooks/Python_4_list%2C%20tuple%2C%20set%2C%20dict_%D1%81%20%D0%B4%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8.ipynb">Множества, кортежи, словари</a></td>
 <tr>
 <td>4</td>
 <td>9 ноября 2022</td>
