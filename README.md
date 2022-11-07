@@ -24,7 +24,7 @@
 <tr>
 <td>3</td>
 <td>7 ноября 2022</td>
-<td>Множества, кортежи, словари</td>
+<td><a href="https://github.com/AnnSenina/Python_for_CL/blob/main/notebooks/Python_4_list%2C%20tuple%2C%20set%2C%20dict.ipynb">Множества, кортежи, словари</a></td>
 <tr>
 <td>4</td>
 <td>9 ноября 2022</td>
