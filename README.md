@@ -28,7 +28,7 @@
 <tr>
 <td>4</td>
 <td>9 ноября 2022</td>
-<td>Работа с функциями</td>
+<td><a href="https://github.com/AnnSenina/Python_for_CL/blob/main/notebooks/Python_5_Functions.ipynb">Работа с функциями</a></td>
 <tr>
 <td>5</td>
 <td>14 ноября 2022</td>
