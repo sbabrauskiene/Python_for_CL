@@ -7,7 +7,7 @@
 
 Сдача после 21.11.2022 возможна с понижением баллов
 
-[Ссылка на блокнот](https://github.com/AnnSenina/Python_for_CL/blob/main/homeworks/Hw1.ipynb)
+[Ссылка на блокнот в GitHub](https://github.com/AnnSenina/Python_for_CL/blob/main/homeworks/Hw1.ipynb) + [Colab-версия задания](https://colab.research.google.com/drive/1FJZTWRys8YCTy90zSNXERA4CJ9-2I1cn?usp=sharing) без картинок, для удобного скачивания
 
 ### Как отправлять решение
 
