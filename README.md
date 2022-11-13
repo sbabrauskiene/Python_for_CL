@@ -32,7 +32,7 @@
 <tr>
 <td>5</td>
 <td>14 ноября 2022</td>
-<td>Работа с файлами, модуль os</td>
+<td><a href="https://github.com/AnnSenina/Python_for_CL/blob/main/notebooks/Python_6_os%2C_files.ipynb">Работа с файлами, модуль os</a></td>
 <tr>
 <td>6</td>
 <td>16 ноября 2022</td>
