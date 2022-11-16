@@ -32,11 +32,11 @@
 <tr>
 <td>5</td>
 <td>14 ноября 2022</td>
-<td><a href="https://github.com/AnnSenina/Python_for_CL/blob/main/notebooks/Python_6_os%2C_files.ipynb">Работа с файлами, модуль os</a></td>
+<td><a href="https://github.com/AnnSenina/Python_for_CL/blob/main/notebooks/Python_6_os%2C_files_c%20%D0%B4%D0%BE%D0%BF%D0%BE%D0%BB%D0%BD%D0%B5%D0%BD%D0%B8%D1%8F%D0%BC%D0%B8.ipynb">Работа с файлами, модуль os</a></td>
 <tr>
 <td>6</td>
 <td>16 ноября 2022</td>
-<td>Регулярные выражения в Python</td>
+<td><a href="https://github.com/AnnSenina/Python_for_CL/blob/main/notebooks/Python_7_regex.ipynb">Регулярные выражения в Python</a></td>
 <tr>
 <td>7</td>
 <td>21 ноября 2022</td>
