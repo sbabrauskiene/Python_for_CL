@@ -77,6 +77,8 @@
 
 Всего 3 домашних задания: после **тем №№ 3, 8 и 13**
 
+[Таблица](https://docs.google.com/spreadsheets/d/13RR6fnZjqJo3SIpdNMW8o73PK7NSWgb0t6602x0bwWY/edit#gid=0) с баллами
+
 # Встречи
 
 ## Знакомство с Python, git, PyCharm, Colab, Jupyter Notebook 22.10.2022
