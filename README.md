@@ -36,11 +36,11 @@
 <tr>
 <td>6</td>
 <td>16 ноября 2022</td>
-<td><a href="https://github.com/AnnSenina/Python_for_CL/blob/main/notebooks/Python_7_regex.ipynb">Регулярные выражения в Python</a></td>
+<td><a href="https://github.com/AnnSenina/Python_for_CL/blob/main/notebooks/Python_7_regex_с_дополнениями.ipynb">Регулярные выражения в Python</a></td>
 <tr>
 <td>7</td>
 <td>21 ноября 2022</td>
-<td><a href="https://github.com/AnnSenina/Python_for_CL/blob/main/notebooks/Python_7_regex_с_дополнениями.ipynb">pandas, работа с датасетами</a></td>
+<td><a href="https://github.com/AnnSenina/Python_for_CL/blob/main/notebooks/Python_8_pandas.ipynb">pandas, работа с датасетами</a></td>
 <tr>
 <td>8</td>
 <td>23 ноября 2022</td>
