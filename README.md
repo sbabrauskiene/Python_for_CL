@@ -40,11 +40,11 @@
 <tr>
 <td>7</td>
 <td>21 ноября 2022</td>
-<td><a href="https://github.com/AnnSenina/Python_for_CL/blob/main/notebooks/Python_8_pandas.ipynb">pandas, работа с датасетами</a></td>
+<td><a href="https://github.com/AnnSenina/Python_for_CL/blob/main/notebooks/Python_8_pandas_%D1%81%20%D0%B4%D0%BE%D0%BF.ipynb">pandas, работа с датасетами</a></td>
 <tr>
 <td>8</td>
 <td>23 ноября 2022</td>
-<td><a href="https://github.com/AnnSenina/Python_for_CL/blob/main/notebooks/Python_9_%D0%BF%D1%80%D0%B5%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%B8%D0%BD%D0%B3_NLTK.ipynb">Препроцессинг, NLTK</a></td>
+<td><a href="https://github.com/AnnSenina/Python_for_CL/blob/main/notebooks/Python_9_%D0%BF%D1%80%D0%B5%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81%D0%B8%D0%BD%D0%B3_NLTK_%20%D1%81%20%D0%B4%D0%BE%D0%BF.ipynb">Препроцессинг, NLTK</a></td>
 <tr>
 <td>9</td>
 <td>28 ноября 2022</td>
