@@ -48,7 +48,7 @@
 <tr>
 <td>9</td>
 <td>28 ноября 2022</td>
-<td>Собираем корпус: парсеры,краулеры,скрепперы</td>
+<td><a href="https://github.com/AnnSenina/Python_for_CL/blob/main/notebooks/Python_10_BeautifulSoup.ipynb">Собираем корпус: парсеры,краулеры,скрепперы</a></td>
 <tr>
 <td>10</td>
 <td>30 ноября 2022</td>
