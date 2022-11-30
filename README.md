@@ -48,11 +48,11 @@
 <tr>
 <td>9</td>
 <td>28 ноября 2022</td>
-<td><a href="https://github.com/AnnSenina/Python_for_CL/blob/main/notebooks/Python_10_BeautifulSoup.ipynb">Собираем корпус: парсеры,краулеры,скрепперы</a></td>
+<td><a href="https://github.com/AnnSenina/Python_for_CL/blob/main/notebooks/Python_10_BeautifulSoup_доп.ipynb">Собираем корпус: парсеры,краулеры,скрепперы</a></td>
 <tr>
 <td>10</td>
 <td>30 ноября 2022</td>
-<td>Частотные списки и n-граммы</td>
+<td><a href="https://github.com/AnnSenina/Python_for_CL/blob/main/notebooks/Python_11_n_gramms.ipynb">Частотные списки и n-граммы</a></td>
 <tr>
 <td>11</td>
 <td>10 декабря 2022</td>
