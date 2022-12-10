@@ -52,11 +52,11 @@
 <tr>
 <td>10</td>
 <td>30 ноября 2022</td>
-<td><a href="https://github.com/AnnSenina/Python_for_CL/blob/main/notebooks/Python_11_n_gramms.ipynb">Частотные списки и n-граммы</a></td>
+<td><a href="https://github.com/AnnSenina/Python_for_CL/blob/main/notebooks/Python_11_n_gramms_доп.ipynb">Частотные списки и n-граммы</a></td>
 <tr>
 <td>11</td>
 <td>10 декабря 2022</td>
-<td>pymorphy, mystem и др</td>
+<td><a href="https://github.com/AnnSenina/Python_for_CL/blob/main/notebooks/Python_12_pymorphy%2C_mystem.ipynb">pymorphy, mystem</a></td>
 <tr>
 <td>12</td>
 <td>17 декабря 2022</td>
