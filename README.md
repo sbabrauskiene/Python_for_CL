@@ -64,7 +64,7 @@
 <tr>
 <td>13</td>
 <td>24 декабря 2022</td>
-<td>Classes and objects</td>
+<td><a href="https://github.com/AnnSenina/Python_for_CL/blob/main/notebooks/Python_14_intro_to_OOP.ipynb">Classes and objects</a></td>
 <tr>
 <td>14-15</td>
 <td>(даты согласуем позже)</td>
