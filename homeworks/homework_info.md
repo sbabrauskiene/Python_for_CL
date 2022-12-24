@@ -10,7 +10,7 @@
 [Ссылка на блокнот в GitHub](https://github.com/AnnSenina/Python_for_CL/blob/main/homeworks/Hw1.ipynb) + [Colab-версия задания](https://colab.research.google.com/drive/1FJZTWRys8YCTy90zSNXERA4CJ9-2I1cn?usp=sharing) без картинок, для удобного скачивания
 
 ### Домашняя работа 2
-Срок выполнения: **с 28 октября по 19 декабря**
+Срок выполнения: **с 28 октября по 21 декабря**
 
 [Ссылка на блокнот в GitHub](https://github.com/AnnSenina/Python_for_CL/blob/main/homeworks/Hw2.ipynb), файл также можно открыть в Colab и **сделать себе копию** (пожалуйста, не работайте в исходном файле!)
 
